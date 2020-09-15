@@ -81,7 +81,7 @@ function Header(){
                     </div>
                     <div class="col-xl-5 col-md-6">
                         <div class="phone_thumb wow fadeInDown" data-wow-duration="1.1s" data-wow-delay=".2s">
-                            <img src="img/ilstrator/finplex.jpeg" alt="" />
+                            <img src="img/ilstrator/finplex.jpeg" width="450" height="700" alt="" />
                         </div>
                     </div>
                 </div>
